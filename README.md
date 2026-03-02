@@ -115,35 +115,74 @@ https://doi.org/10.1093/nar/gkaf018
 
 Gasch, A. P., Spellman, P. T., Kao, C. M., Carmel-Harel, O., Eisen, M. B., Storz, G., Botstein, D., & Brown, P. O. (2000).   
 Genomic Expression Programs in the Response of Yeast Cells to Environmental Changes.  
-Molecular Biology of the Cell, 11(12), 4241–4257. https://doi.org/10.1091/mbc.11.12.4241
+Molecular Biology of the Cell, 11(12), 4241–4257.   
+https://doi.org/10.1091/mbc.11.12.4241
 
-ggplot2: Elegant Graphics for Data Analysis (3e). (n.d.). Retrieved March 1, 2026, from https://ggplot2-book.org/
+ggplot2: Elegant Graphics for Data Analysis (3e). (n.d.).  
+Retrieved March 1, 2026,  
+from https://ggplot2-book.org/
 
-Kolde, R. (2010). pheatmap: Pretty Heatmaps (p. 1.0.13) [Dataset]. https://doi.org/10.32614/CRAN.package.pheatmap
+Kolde, R. (2010).  
+*pheatmap: Pretty Heatmaps* (p. 1.0.13) [Dataset].   
+https://doi.org/10.32614/CRAN.package.pheatmap
 
-Lackner, D. H., Schmidt, M. W., Wu, S., Wolf, D. A., & Bähler, J. (2012). Regulation of transcriptome, translation, and proteome in response to environmental stress in fission yeast. Genome Biology, 13(4), R25. https://doi.org/10.1186/gb-2012-13-4-r25
+Lackner, D. H., Schmidt, M. W., Wu, S., Wolf, D. A., & Bähler, J. (2012).  
+Regulation of transcriptome, translation, and proteome in response to environmental stress in fission yeast.  
+*Genome Biology*, 13(4), R25.  
+https://doi.org/10.1186/gb-2012-13-4-r25
 
-Mardanov, A. V., Eldarov, M. A., Beletsky, A. V., Tanashchuk, T. N., Kishkovskaya, S. A., & Ravin, N. V. (2020). Transcriptome Profile of Yeast Strain Used for Biological Wine Aging Revealed Dynamic Changes of Gene Expression in Course of Flor Development. Frontiers in Microbiology, 11, 538. https://doi.org/10.3389/fmicb.2020.00538
+Mardanov, A. V., Eldarov, M. A., Beletsky, A. V., Tanashchuk, T. N., Kishkovskaya, S. A., & Ravin, N. V. (2020).  
+Transcriptome Profile of Yeast Strain Used for Biological Wine Aging Revealed Dynamic Changes of Gene Expression in Course of Flor Development.  
+*Frontiers in Microbiology*, 11, 538.  
+https://doi.org/10.3389/fmicb.2020.00538
 
-Moreno-García, J., Mauricio, J. C., Moreno, J., & García-Martínez, T. (2016). Stress responsive proteins of a flor yeast strain during the early stages of biofilm formation. Process Biochemistry, 51(5), 578–588. https://doi.org/10.1016/j.procbio.2016.02.011
+Moreno-García, J., Mauricio, J. C., Moreno, J., & García-Martínez, T. (2016).  
+Stress responsive proteins of a flor yeast strain during the early stages of biofilm formation.  
+*Process Biochemistry*, 51(5), 578–588.   
+https://doi.org/10.1016/j.procbio.2016.02.011
 
-Patro, R., Duggal, G., Love, M. I., Irizarry, R. A., & Kingsford, C. (2017). Salmon provides fast and bias-aware quantification of transcript expression. Nature Methods, 14(4), 417–419. https://doi.org/10.1038/nmeth.4197
+Patro, R., Duggal, G., Love, M. I., Irizarry, R. A., & Kingsford, C. (2017).  
+Salmon provides fast and bias-aware quantification of transcript expression.  
+*Nature Methods*, 14(4), 417–419.  
+https://doi.org/10.1038/nmeth.4197
 
-Saccharomyces_cerevisiae—Ensembl genome browser 115. (n.d.). Retrieved March 1, 2026, from https://www.ensembl.org/Saccharomyces_cerevisiae/Info/Index
+Saccharomyces_cerevisiae—Ensembl genome browser 115. (n.d.).  
+Retrieved March 1, 2026,   
+from https://www.ensembl.org/Saccharomyces_cerevisiae/Info/Index
 
-Sarantopoulou, D., Brooks, T. G., Nayak, S., Mrčela, A., Lahens, N. F., & Grant, G. R. (2021). Comparative evaluation of full-length isoform quantification from RNA-Seq. BMC Bioinformatics, 22, 266. https://doi.org/10.1186/s12859-021-04198-1
+Sarantopoulou, D., Brooks, T. G., Nayak, S., Mrčela, A., Lahens, N. F., & Grant, G. R. (2021).  
+Comparative evaluation of full-length isoform quantification from RNA-Seq.  
+*BMC Bioinformatics*, 22, 266.   
+https://doi.org/10.1186/s12859-021-04198-1
 
-Smith, M. A., Natarajan, E., Lizama-Valenzuela, C., Arnold, T., Stroud, D., Larpthaveesarp, A., Alvira, C., Fineman, J. R., Ferriero, D. M., Maltepe, E., Gonzalez, F., & Mike, J. K. (2026). Temporal and Spatial Gene Expression Dynamics in Neonatal HI Hippocampus with Focus on Arginase. Cells, 15(3), 253. https://doi.org/10.3390/cells15030253
+Smith, M. A., Natarajan, E., Lizama-Valenzuela, C., Arnold, T., Stroud, D., Larpthaveesarp, A., Alvira, C., Fineman, J. R., Ferriero, D. M., Maltepe, E., Gonzalez, F., & Mike, J. K. (2026).   
+Temporal and Spatial Gene Expression Dynamics in Neonatal HI Hippocampus with Focus on Arginase.   
+*Cells*, 15(3), 253.   
+https://doi.org/10.3390/cells15030253
 
-Soneson, C., Love, M. I., & Robinson, M. D. (2015). Differential analyses for RNA-seq: Transcript-level estimates improve gene-level inferences. F1000Research, 4, 1521. https://doi.org/10.12688/f1000research.7563.2
+Soneson, C., Love, M. I., & Robinson, M. D. (2015).  
+Differential analyses for RNA-seq: Transcript-level estimates improve gene-level inferences.  
+F1000Research, 4, 1521.  
+https://doi.org/10.12688/f1000research.7563.2
 
-Speranza, B., Corbo, M. R., Campaniello, D., Altieri, C., Sinigaglia, M., & Bevilacqua, A. (2020). Biofilm formation by potentially probiotic Saccharomyces cerevisiae strains. Food Microbiology, 87, 103393. https://doi.org/10.1016/j.fm.2019.103393
+Speranza, B., Corbo, M. R., Campaniello, D., Altieri, C., Sinigaglia, M., & Bevilacqua, A. (2020).   
+Biofilm formation by potentially probiotic Saccharomyces cerevisiae strains.   
+*Food Microbiology*, 87, 103393.     
+https://doi.org/10.1016/j.fm.2019.103393
 
-SRA Toolkit Development Team. (n.d.). SRA Toolkit. Retrieved https://trace.ncbi.nlm.nih.gov/Traces/sra/sra.cgi?view=software
+SRA Toolkit Development Team. (n.d.).  
+SRA Toolkit.  
+Retrieved https://trace.ncbi.nlm.nih.gov/Traces/sra/sra.cgi?view=software
 
-Vyas, V. K., Berkey, C. D., Miyao, T., & Carlson, M. (2005). Repressors Nrg1 and Nrg2 Regulate a Set of Stress-Responsive Genes in Saccharomyces cerevisiae. Eukaryotic Cell, 4(11), 1882–1891. https://doi.org/10.1128/ec.4.11.1882-1891.2005
+Vyas, V. K., Berkey, C. D., Miyao, T., & Carlson, M. (2005).  
+Repressors Nrg1 and Nrg2 Regulate a Set of Stress-Responsive Genes in Saccharomyces cerevisiae.  
+*Eukaryotic Cell*, 4(11), 1882–1891.  
+https://doi.org/10.1128/ec.4.11.1882-1891.2005
 
-Xu, S., Hu, E., Cai, Y., Xie, Z., Luo, X., Zhan, L., Tang, W., Wang, Q., Liu, B., Wang, R., Xie, W., Wu, T., Xie, L., & Yu, G. (2024). Using clusterProfiler to characterize multiomics data. Nature Protocols, 19(11), 3292–3320. https://doi.org/10.1038/s41596-024-01020-z
+Xu, S., Hu, E., Cai, Y., Xie, Z., Luo, X., Zhan, L., Tang, W., Wang, Q., Liu, B., Wang, R., Xie, W., Wu, T., Xie, L., & Yu, G. (2024).  
+Using clusterProfiler to characterize multiomics data.  
+*Nature Protocols*, 19(11), 3292–3320.  
+https://doi.org/10.1038/s41596-024-01020-z
 
 
 
