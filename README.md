@@ -1,5 +1,5 @@
 # BINF*6110 Assignment 2
-## Transcriptomic Analysis of Saccharomyces cerevisiae Biofilm Development Reveals Stage-Specific Metabolic Reprogramming
+## Transcriptomic Analysis of *Saccharomyces cerevisiae* Biofilm Development Reveals Stage-Specific Metabolic Reprogramming
 
 
 ## Introduction
