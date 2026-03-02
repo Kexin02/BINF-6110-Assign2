@@ -1,4 +1,7 @@
 # BINF*6110 Assignment 2
+## Transcriptomic Analysis of Saccharomyces cerevisiae Biofilm Development Reveals Stage-Specific Metabolic Reprogramming
+
+
 ## Introduction
 
 Biofilm formation in *Saccharomyces cerevisiae* is a structured developmental process in which cells transition through distinct physiological states in response to environmental changes (Speranza et al., 2020). During fermentation-associated biofilm maturation, yeast cells experience shifts in nutrient availability, ethanol concentration, and metabolic byproducts (Speranza et al., 2020). These environmental changes are expected to drive coordinated transcriptional reprogramming. Understanding stage-specific gene expression patterns provides insight into how yeast adapts to prolonged fermentation conditions and resource limitation.
